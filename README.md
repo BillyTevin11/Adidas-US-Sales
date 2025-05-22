@@ -1,5 +1,8 @@
+<div align="center">
+  
+![icons8-adidas-trefoil-480](https://github.com/user-attachments/assets/17eff99c-8ab1-42ab-8bd5-f09c968d2b44)
 
-![icons8-adidas-trefoil-480](https://github.com/user-attachments/assets/1c03b6d5-d40d-4c3e-8c29-4dcbfcd87d47)
+</div>
 
 # 📊 Adidas US Sales Analysis
 
