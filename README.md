@@ -1,3 +1,6 @@
+
+![icons8-adidas-trefoil-480](https://github.com/user-attachments/assets/1c03b6d5-d40d-4c3e-8c29-4dcbfcd87d47)
+
 # 📊 Adidas US Sales Analysis
 
 # Overview
