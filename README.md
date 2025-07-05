@@ -14,7 +14,7 @@ The aim is to uncover actionable insights from Adidas' sales data by analyzing r
 
 1. Which product categories generate the most revenue and profit?
 
-2.Which sales method (In-store, Outlet, or Online) is most effective?
+2. Which sales method (In-store, Outlet, or Online) is most effective?
 
 3. How do operating margins vary across product lines?
 
